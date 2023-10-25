@@ -1,0 +1,112 @@
+fieldset{
+    border-radius: 20px;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+    position:relative;
+    margin-left: 400px;
+    margin-top: -700px;
+    box-shadow:0px 0px 20px black;
+    backdrop-filter: blur(6px);
+    
+    
+}
+.user{
+    width: 250px;
+    border: 0px;
+    border-radius: 20px;
+    height: 50px;
+    margin-left: 75px;
+    margin-top: 30px;
+   
+}
+.us{
+    font-size:15px;
+    margin-top: -60px;
+    height: 50px;
+    border:none;
+    border-width: 10px;
+    width: 250px;
+    opacity: 50%;
+    border-radius: 70px;
+    text-align: center;
+    
+}
+.pas{
+    font-size: 15px;
+    margin-top: -80px;
+    height: 50px;
+    border:none;
+    border-width: 10px;
+    width: 250px;
+    opacity: 50%;
+    border-radius: 70px;
+    text-align: center;
+    }
+.pass{
+    width: 250px;
+    border: 0px;
+    border-radius: 20px;
+    height: 50px;
+    margin-left: 75px;
+    margin-top: 10px;
+
+}
+.RE{
+    
+    width: 250px;
+    border: 0px;
+    border-radius: 20px;
+    height: 50px;
+    margin-left: 75px;
+    margin-top: 10px;
+}
+.pas2{
+    font-size: 15px;
+    margin-top: -60px;
+    height: 50px;
+    border:none;
+    border-width: 10px;
+    width: 250px;
+    opacity: 50%;
+    border-radius: 70px;
+    text-align: center;
+}
+.bt{
+    width: 150px;
+    border: 0px;
+    border-radius: 40px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+.bt:hover{
+    background-color:aqua;
+
+}
+.content{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.log{
+    text-align: center;
+    margin-top: 20px;
+}
+.imgg{
+    z-index: -1;
+}
+.sign{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 60px;
+}
+.sign a{
+    text-decoration: none;
+    color: crimson;
+}
+.bt{
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+
